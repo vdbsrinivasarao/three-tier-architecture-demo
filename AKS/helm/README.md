@@ -1,3 +1,6 @@
+login to cluster from powershell
+az aks get-credentials --name MyManagedCluster --overwrite-existing --resource-group MyResourceGroup
+
 # Stan's Robot Shop
 
 Use this helm chart to customise your install of Stan's Robot Shop.
